@@ -1,0 +1,4 @@
+#example osascript -e 'set volume 0'
+open -n /Users/rhjelm/quit_macos_outlook_on_sleep/quit_outlook.app
+
+
